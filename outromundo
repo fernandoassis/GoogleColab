@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyOLt1XJ3p37g3TN3M6l82iI",
+      "authorship_tag": "ABX9TyNpAt+yrQwF7mAz+eKst+rS",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -34,7 +34,8 @@
       },
       "outputs": [],
       "source": [
-        "print(\"Olá, outro mundo\")"
+        "print(\"Olá, outro mundo\")\n",
+        "print input(\"escreva seu nome\")"
       ]
     }
   ]
