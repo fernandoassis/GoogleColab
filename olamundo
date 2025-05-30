@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyMtj8ddll3Vx2LL/UgpiIqN",
+      "authorship_tag": "ABX9TyMzVw1fRwaf3lUTkGyB/uH2",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -28,13 +28,27 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": 1,
       "metadata": {
-        "id": "7MlZYdM5cLzu"
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "jgZAkLvLdK9x",
+        "outputId": "eb18bf73-3f25-48bf-a903-59b9ec9b70bb"
       },
-      "outputs": [],
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Olá, mundo!!!\n",
+            "Olá, Fernando!!!\n"
+          ]
+        }
+      ],
       "source": [
-        "print(\"Olá. mundo!!!\")\n"
+        "print(\"Olá, mundo!!!\")\n",
+        "print(\"Olá, Fernando!!!\")"
       ]
     }
   ]
